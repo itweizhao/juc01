@@ -5,4 +5,7 @@ package demo02;
  * @data 2019/12/17-18:03
  */
 public class Demo01 {
+    public static void main(String[] args) {
+
+    }
 }
